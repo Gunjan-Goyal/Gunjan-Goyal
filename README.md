@@ -8,9 +8,9 @@
 
 ## 🚀 About Me  
 
-- 🎓 Final-year student at IGDTUW.
-- 💡 Passionate about automating systems using Machine Learning, AI, and IoT.
-- 🔍 Currently working on a context-aware adaptive wheelchair that integrates AI & IoT for intelligent road navigation.
+- 🎓 Recent Graduate from IGDTUW.
+- 💡 Passionate about automating systems using Machine Learning, AI, and DS.
+- 🔍 Currently working on a Reinforcement Learning porject.
 - 👯 I’m looking to collaborate on AI driven projects that make an impact.
  
 ---
